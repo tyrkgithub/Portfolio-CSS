@@ -128,7 +128,7 @@ body {
 #gridArea {
     margin: 0px 5%;
     display: grid;
-    width:1500px;
+    width:2000px;
     grid-template-rows: 300px 150px 150px;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
