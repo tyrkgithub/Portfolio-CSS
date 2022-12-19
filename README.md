@@ -18,7 +18,7 @@
   
   <br/>
   
-  <p> Please find the link to my deployed application <a href="[https://tyrkgithub.github.io/week-two-challenge]"> here </a> </p>
+  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/week-two-challenge">here.</a> </p>
   
   <br/>
   
