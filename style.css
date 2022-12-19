@@ -1,6 +1,6 @@
 :root {
     --clr1: rgb(106, 106, 249);
-    --clr2: rgb(143, 46, 240);
+    --clr2: rgb(194, 141, 247);
     --clr3: beige;
     --clr4: rgb(27, 48, 209);
 
@@ -125,6 +125,9 @@ body {
     display: flex;
 }
 
+#portfolio #gridArea {
+    justify-content: center;
+}
 #gridArea {
     margin: 0px 5%;
     display: grid;
