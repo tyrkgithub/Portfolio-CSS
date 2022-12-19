@@ -1,0 +1,334 @@
+:root {
+    --clr1: rgb(106, 106, 249);
+    --clr2: rgb(143, 46, 240);
+    --clr3: beige;
+    --clr4: rgb(27, 48, 209);
+
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: var(--clr1);
+    display: block;
+    margin: 8px;
+}
+
+
+/* Navigation */
+
+
+#navBar {
+    display: flex;
+    width: 100%;
+    background-color: var(--clr4);
+}
+
+#navBar h1{
+    width: 25%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    color: var(--clr3);
+    background-color: var(--clr2);
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#navLinks{
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    width: 75%;
+    padding-left: 200px;
+}
+
+
+.navList {
+    text-decoration: none;
+    color: var(--clr3);
+    border-bottom: 4px solid var(--clr2);
+    padding: 3px;
+}
+
+.navList:hover {
+    border-bottom-color: var(--clr3);
+}
+
+
+/* Subheading */
+
+
+.subHeading {
+    color: var(--clr2);
+    position: relative;
+    background-image: url(../assets/images/flowerpic.jpg);
+    height: 200px;
+    width: 100%;
+
+}
+
+
+.subHeading h2 {
+    margin: 0px;
+    position: absolute;
+    right: 50px;
+    top: 150px;
+    border: 1px solid var(--clr4);
+    background-color: var(--clr4);
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+
+.head3 {
+    display: flex;
+    justify-content: end;
+    font-size: 25px;
+    border-right: 3px solid var(--clr4);
+    width: 60px;
+    font-weight: 500;
+    padding: 70px 20px 70px 80px;
+    margin: 10px;
+    color: var(--clr3);
+}
+
+
+/* About */
+
+
+#about {
+    height: 200px;
+    display: flex;
+}
+
+.intro {
+    display: flex;
+    color: var(--clr3);
+    margin: 2% 5%;
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+
+/* Portfolio and portfolio grid */
+
+
+
+#portfolio {
+    height: 600px;
+    display: flex;
+}
+
+#gridArea {
+    margin: 0px 5%;
+    display: grid;
+    width:1000px;
+    grid-template-rows: 300px 150px 150px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    "gridCard1 gridCard1"
+    "gridCard2 gridCard3"
+    "gridCard4 gridCard5";
+}
+
+.cardGrid {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items:flex-end;
+    border: 3px solid var(--clr4);
+}
+
+.cardGrid:hover {
+    border-color: var(--clr2);
+    opacity: 85%;
+}
+
+.head4 {
+    background-color: var(--clr2);
+    padding: 5px;
+    color: var(--clr3);
+    font-size: 20px;
+    border: 2px solid var(--clr4);
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    border-radius: 10px;
+}
+
+.subTitle {
+    font-size: 10px;
+}
+
+
+
+#gridCard1 {
+    grid-area: gridCard1;
+    background-image: url(../assets/images/screenshot-week-one-challenge.png);
+}
+
+#gridCard1 a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    text-decoration: none;
+}
+
+#gridCard2 {
+    grid-area: gridCard2;
+    background-image: url(../assets/images/flowerpic.jpg);
+}
+
+#gridCard3 {
+    grid-area: gridCard3;
+    background-image: url(../assets/images/flowerpic.jpg);
+}
+
+#gridCard4 {
+    grid-area: gridCard4;
+    background-image: url(../assets/images/flowerpic.jpg);
+}
+
+#gridCard5 {
+    grid-area: gridCard5;
+    background-image: url(../assets/images/flowerpic.jpg);
+}
+
+
+/* Contact */
+
+
+
+#contact {
+    height: 200px;
+    display: flex;
+}
+
+#contactLinks {
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    width: 100%;
+    padding: 0%;
+}
+
+.contactList {
+    text-decoration: none;
+    color: var(--clr3);
+    border-bottom: 4px solid var(--clr2);
+    padding: 3px;
+}
+
+.contactList:hover {
+    border-bottom-color: var(--clr3);
+}
+
+/* Media Queries */
+
+
+@media screen and (max-width: 550px){
+    #contactLinks {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #about {
+        height: 300px;
+
+      
+    }
+    #gridArea {
+        grid-template-rows: 2fr 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "gridCard1"
+        "gridCard2" 
+        "gridCard3"
+        "gridCard4"
+        "gridCard5";
+    }  
+}
+
+
+@media screen and (max-width: 500px){
+    #navLinks {
+        display: none;
+    }
+
+    .subHeading h2 {
+        font-size: 15px;
+      
+    }
+
+    .head3 {
+        display: flex;
+        justify-content: end;
+        margin: 10px 10px 10px 20px;
+        font-size: 15px;
+        width: 20px;
+        font-weight: 500;
+        padding: 70px 10px 70px 20px;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 500px){   
+    #gridArea {
+        grid-template-rows: 2fr 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "gridCard1"
+        "gridCard2" 
+        "gridCard3"
+        "gridCard4"
+        "gridCard5";
+    }  
+    .head4 {
+        font-size: 15px;
+    }
+  
+}
+
+
+@media screen and (max-width: 350px){
+    .head4{
+        font-size: 10px;
+    }
+
+    .subTitle {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 300px){
+    #about {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 250px){
+    .head3 {
+        display: none;
+    }
+    .subHeading h2 {
+        font-size: 10px;
+      
+    }
+}
