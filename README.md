@@ -1,7 +1,7 @@
 # <h1>Week Two Challenge</h1>
   <br/>
  <h2>My Task</h2> 
-   <p>I have been given the task of changing the code of a clients web page to make it more accessible. Web pages which are accessible are more user friendly for people who are visually impaired as their text-to-speech devices are able to follow the code. The devices can locate the appropriate content within the page by reading the elements in the HTML. To make the webpage accessible I needed to change the non semantic elements to semantic elemetents within the code. To complete the task I need to locate the "div" elements in the HTML and change them to their semantic counterparts. When I have changed the HTML, I need to also alter the CSS code accordingly.</p>
+   <p>This weeks challenge is creating a portfolio web application which showcases the builds I have worked on. I have applied flex, grid, media quieries and CSS variables</p>
   
  <br/>
   <ul>
@@ -18,7 +18,7 @@
   
   <br/>
   
-  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/week-one-challenge/">here</a>. </p>
+  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/week-two-challenge/"</a>. </p>
   
   <br/>
   
@@ -26,9 +26,9 @@
   
   <br/>
   
-  >AS A marketing agency<br/>
-     I WANT a codebase that follows accessibility standards<br/>
-     SO THAT our own site is optimized for search engines<br/>
+  >AS A web application student<br/>
+     I WANT a portfolio that showcases applications I have made<br/>
+     SO THAT potential clients and employers can see my work<br/>
   </p>
   
   <br/>
@@ -40,11 +40,12 @@
   <p>To achieve accessibility standards I need to ensure:</p>
   
   <ul>
-    <li>Semantic HTML elements can be found throughout the source code</li>
-    <li>HTML elements follow a logical structure independent of styling and positioning</li>
-    <li>Image and icon elements contain accessible alt attributes</li>
-    <li>Heading attributes fall in sequential order</li>
-    <li>Title elements contain a concise, descriptive title</li>
+    <li>When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you</li>
+    <li>When one of the links in the navigation is clicked then the UI scrolls to the corresponding section</li>
+    <li>When viewing the section about your work then the section contains titled images of your applications</li>
+    <li>When presented with the your first application then that application's image should be larger in size than the others</li>
+    <li>When images of the applications are clicked then the user is taken to that deployed application</li>
+    <li>When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport</li>
   </ul>
   
   <br/>
@@ -53,8 +54,8 @@
 
   <br/>
  
-  <p>To complete this task I refered to HTML and CSS created for the group project in the first week of my Web Application class.<br/>
-   I also applied knowledge learnt in my 1-1 tutoring session.<br/>
+  <p>To complete this task I refered to HTML and CSS created for the second mini project.<br/>
+   I also learnt new code from W3school.<br/>
   
   <br/>
 
@@ -62,18 +63,27 @@
  
   <br/>
 
-  <p>Here are 2 images for visual comparision. The first image is how the application looked when I was given it to work on. The second image is how it looks after I have completed the work. Apperance wise, the application should not change as my task is to bring it up to accessability standards.</p>
+  <p>Below are screenshots of my portfolio and how the page looks on differnt size devices. I have used media quieries to get this result</p>
 
   <br/>
+  
+  
+  
+  
 
-  <img width="497" alt="Screenshot provided for week one challenge" src="https://user-images.githubusercontent.com/118772733/206880866-750420e1-0255-45b9-a430-edc60162898c.png"><img width="497" alt="Week one challenge screenshot" src="https://user-images.githubusercontent.com/118772733/206878711-5315c72b-ed2d-4832-8ef3-da10b788d88b.png"><br/>
+ <br/>
   
   <p>The first is a screenshot of the application before I started work on it. The second is a screenshot of my deployed application.</p>
 
   <br/>
   
- <h2>Notes</h2>
+   <img width="485" alt="portfolio-laptop-view" src="https://user-images.githubusercontent.com/118772733/208523563-cade0b58-82fd-4aa3-a4b4-681a58ce1b1f.png">
+<img width="362" alt="portfolio-tablet-view" src="https://user-images.githubusercontent.com/118772733/208523579-6b394336-acb5-479f-b46d-5daa7d723315.png">
+<img width="204" alt="portfolio-mobile-view" src="https://user-images.githubusercontent.com/118772733/208523583-c5e6f12b-3c9c-4138-a218-aa77366b5306.png">
   
+ <h2>Notes</h2>
+ 
+
   <br/>
   
   <p>In this part of my READ.ME page I include things which helped me to complete the project.</p>
