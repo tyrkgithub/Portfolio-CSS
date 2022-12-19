@@ -63,7 +63,7 @@
  
   <br/>
 
-  <p>Below are screenshots of my portfolio and how the page looks on differnt size devices. I have used media quieries to get this result</p>
+  <p>Below are screenshots of my portfolio and how the page looks on differnt size devices. I have used media quieries to get this result.</p>
 
 
   <br/>
