@@ -5,11 +5,11 @@
   
  <br/>
   <ul>
-    <li><a href="https://github.com/tyrkgithub/week-one-challenge/edit/main/README.md#link">Link</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-one-challenge/edit/main/README.md#user-story">User Story</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-one-challenge/edit/main/README.md#resources">Resources</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-one-challenge/edit/main/README.md#visual-references">Visual References</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-one-challenge/edit/main/README.md#notes">Notes</a></li>
+    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#link">Link</a></li>
+    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#acceptance-criteria">User Story</a></li>
+    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#resources">Resources</a></li>
+    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#visual-references">Visual References</a></li>
+    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#notes">Notes</a></li>
   
   </ul>
   <br/>
@@ -65,20 +65,18 @@
 
   <p>Below are screenshots of my portfolio and how the page looks on differnt size devices. I have used media quieries to get this result</p>
 
-  <br/>
-  
-  
-  
-  
-
- <br/>
-  
-  <p>The first is a screenshot of the application before I started work on it. The second is a screenshot of my deployed application.</p>
 
   <br/>
   
    <img width="485" alt="portfolio-laptop-view" src="https://user-images.githubusercontent.com/118772733/208523563-cade0b58-82fd-4aa3-a4b4-681a58ce1b1f.png">
+  <p>Laptop View</p>
+   <br/>
+   
 <img width="362" alt="portfolio-tablet-view" src="https://user-images.githubusercontent.com/118772733/208523579-6b394336-acb5-479f-b46d-5daa7d723315.png">
+<p>Tablet View</p>
+<br/>
+
+<p>Mobile View</p>
 <img width="204" alt="portfolio-mobile-view" src="https://user-images.githubusercontent.com/118772733/208523583-c5e6f12b-3c9c-4138-a218-aa77366b5306.png">
   
  <h2>Notes</h2>
@@ -91,8 +89,8 @@
   <br/>
   
   <ul>
-   <li>Examples of non semantic elements are "div" and "span". Examples of semantic elements are "article" and "form".</li>
-   <li>When changing "div class=hero div" to "img id=hero img" in the HTML and in the CSS changing ".hero"  to "#hero".</p>
+   <li>I wanted the grid to be displayed in columns when the page accessed in mobile view. To do this I added a media query, selected the grid and changed the grid-template-area.</li>
+   <li>Using :hover in CSS will allow you to change how an element looks when the mouse is hovering over it.</p>
 
 
 
