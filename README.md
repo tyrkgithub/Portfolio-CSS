@@ -1,7 +1,7 @@
 # <h1>Week Two Challenge</h1>
   <br/>
  <h2>My Task</h2> 
-   <p>This weeks challenge is creating a portfolio web application which showcases the builds I have worked on. I have applied flex, grid, media quieries and CSS variables</p>
+   <p>This weeks challenge is creating a portfolio web application which showcases the builds I have worked on. I have applied flex, grid, media quieries and CSS variables. When I have created and deployed the page I can come back and update it with my future works as I continue on my journey in web application development.</p>
   
  <br/>
   <ul>
@@ -18,7 +18,7 @@
   
   <br/>
   
-  <p> Please find the link to my deployed application <a href="[https://tyrkgithub.github.io/week-two-challenge/](https://tyrkgithub.github.io/week-two-challenge/)"here</a>. </p>
+  <p> Please find the link to my deployed application <a href="[https://tyrkgithub.github.io/week-two-challenge/](https://tyrkgithub.github.io/week-two-challenge/)">here</a>. </p>
   
   <br/>
   
@@ -73,7 +73,6 @@
    <br/>
    <p>Tablet View</p>
 <img width="362" alt="portfolio-tablet-view" src="https://user-images.githubusercontent.com/118772733/208523579-6b394336-acb5-479f-b46d-5daa7d723315.png">
-<p>Tablet View</p>
 <br/>
 
 <p>Mobile View</p>
