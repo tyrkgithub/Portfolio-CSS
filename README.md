@@ -18,7 +18,7 @@
   
   <br/>
   
-  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/week-two-challenge/"</a>. </p>
+  <p> Please find the link to my deployed application <a href="[https://tyrkgithub.github.io/week-two-challenge/](https://tyrkgithub.github.io/week-two-challenge/)"here</a>. </p>
   
   <br/>
   
@@ -67,11 +67,11 @@
 
 
   <br/>
-  
+    <p>Laptop View</p>
    <img width="485" alt="portfolio-laptop-view" src="https://user-images.githubusercontent.com/118772733/208523563-cade0b58-82fd-4aa3-a4b4-681a58ce1b1f.png">
-  <p>Laptop View</p>
+
    <br/>
-   
+   <p>Tablet View</p>
 <img width="362" alt="portfolio-tablet-view" src="https://user-images.githubusercontent.com/118772733/208523579-6b394336-acb5-479f-b46d-5daa7d723315.png">
 <p>Tablet View</p>
 <br/>
