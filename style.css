@@ -150,6 +150,7 @@ body {
     display: flex;
     align-items:flex-end;
     border: 3px solid var(--clr4);
+    border-radius: 10px;
 }
 
 .cardGrid:hover {
