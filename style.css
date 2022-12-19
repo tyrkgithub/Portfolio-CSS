@@ -64,7 +64,7 @@ body {
 .subHeading {
     color: var(--clr2);
     position: relative;
-    background-image: url(../assets/images/flowerpic.jpg);
+    background-image: url(../week-two-challenge/images/flowerpic.jpg);
     height: 200px;
     width: 100%;
 
@@ -174,7 +174,7 @@ body {
 
 #gridCard1 {
     grid-area: gridCard1;
-    background-image: url(../assets/images/screenshot-week-one-challenge.png);
+    background-image: url(../week-two-challenge/images/screenshot-week-one-challenge.png);
 }
 
 #gridCard1 a {
@@ -188,22 +188,22 @@ body {
 
 #gridCard2 {
     grid-area: gridCard2;
-    background-image: url(../assets/images/flowerpic.jpg);
+    background-image: url(../week-two-challenge/images/flowerpic.jpg);
 }
 
 #gridCard3 {
     grid-area: gridCard3;
-    background-image: url(../assets/images/flowerpic.jpg);
+    background-image: url(../week-two-challenge/images/flowerpic.jpg);
 }
 
 #gridCard4 {
     grid-area: gridCard4;
-    background-image: url(../assets/images/flowerpic.jpg);
+    background-image: url(../week-two-challenge/images/flowerpic.jpg);
 }
 
 #gridCard5 {
     grid-area: gridCard5;
-    background-image: url(../assets/images/flowerpic.jpg);
+    background-image: url(../week-two-challenge/images/flowerpic.jpg);
 }
 
 
