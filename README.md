@@ -32,6 +32,7 @@
   </p>
   
   <br/>
+
   
 <h2>Acceptance Criteria</h2>
 
@@ -63,8 +64,9 @@
  
   <br/>
 
-  <p>Below are screenshots of my portfolio and how the page looks on differnt size devices. I have used media quieries to get this result.</p>
+  <p>Below is a screenshot of the financial analysis is the console.</p>
 
+  <img width="415" alt="Untitled" src="https://user-images.githubusercontent.com/118772733/211404186-3b1d98b1-37f1-465b-b7f0-cc070265c055.png">
 
   <br/>
     <p>Laptop View</p>
