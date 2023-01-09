@@ -64,10 +64,9 @@
  
   <br/>
 
-  <p>Below is a screenshot of the financial analysis is the console.</p>
+  <p>Below are screenshots of my portfolio and how the page looks on differnt size devices. I have used media quieries to get this result</p>
 
-  <img width="415" alt="Untitled" src="https://user-images.githubusercontent.com/118772733/211404186-3b1d98b1-37f1-465b-b7f0-cc070265c055.png">
-
+ 
   <br/>
     <p>Laptop View</p>
    <img width="485" alt="portfolio-laptop-view" src="https://user-images.githubusercontent.com/118772733/208523563-cade0b58-82fd-4aa3-a4b4-681a58ce1b1f.png">
