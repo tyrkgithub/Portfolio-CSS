@@ -69,15 +69,16 @@
  
   <br/>
     <p>Laptop View</p>
-   <img width="485" alt="portfolio-laptop-view" src="https://user-images.githubusercontent.com/118772733/208523563-cade0b58-82fd-4aa3-a4b4-681a58ce1b1f.png">
+   
+<img width="1023" alt="laptop" src="https://user-images.githubusercontent.com/118772733/221665330-ccaec407-060a-4741-ade0-c0d88accf3a1.png">
 
    <br/>
    <p>Tablet View</p>
-<img width="362" alt="portfolio-tablet-view" src="https://user-images.githubusercontent.com/118772733/208523579-6b394336-acb5-479f-b46d-5daa7d723315.png">
+<img width="575" alt="tablet" src="https://user-images.githubusercontent.com/118772733/221665338-bc63fcd3-5b3f-4a7f-9e63-3db11f8f785a.png">
+
 <br/>
 
-<p>Mobile View</p>
-<img width="204" alt="portfolio-mobile-view" src="https://user-images.githubusercontent.com/118772733/208523583-c5e6f12b-3c9c-4138-a218-aa77366b5306.png">
+
   
  <h2>Notes</h2>
  
