@@ -5,11 +5,11 @@
   
  <br/>
   <ul>
-    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#link">Link</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#acceptance-criteria">User Story</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#resources">Resources</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#visual-references">Visual References</a></li>
-    <li><a href="https://github.com/tyrkgithub/week-two-challenge/blob/main/README.md#notes">Notes</a></li>
+    <li><a href="https://github.com/tyrkgithub/Portfolio-CSS/blob/main/README.md#link">Link</a></li>
+    <li><a href="https://github.com/tyrkgithub/Portfolio-CSSblob/main/README.md#acceptance-criteria">User Story</a></li>
+    <li><a href="https://github.com/tyrkgithub/Portfolio-CSS/blob/main/README.md#resources">Resources</a></li>
+    <li><a href="https://github.com/tyrkgithub/Portfolio-CSS/blob/main/README.md#visual-references">Visual References</a></li>
+    <li><a href="https://github.com/tyrkgithub/Portfolio-CSS/blob/main/README.md#notes">Notes</a></li>
   
   </ul>
   <br/>
@@ -18,7 +18,7 @@
   
   <br/>
   
-  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/week-two-challenge">here.</a> </p>
+  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/Portfolio-CSS">here.</a> </p>
   
   <br/>
   
